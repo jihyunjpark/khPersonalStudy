@@ -12,7 +12,6 @@ public class MemberNoDesc implements Comparator<MemberVo> {
 		// result=51;
 		// }
 		// return result;
-		System.out.println(12345);
 		return o2.getMemberNo() - o1.getMemberNo();
 
 	}
